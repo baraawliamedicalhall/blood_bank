@@ -17,7 +17,9 @@
             <li class="nav-item">
                 <a class="nav-link" href="index.php">Home</a>
             </li>
-
+            <li class="nav-item">
+                <a class="nav-link" href="index.php">Blog</a>
+            </li>
             <li class="nav-item">
                 <a class="nav-link" href="donor.php">Donors</a>
             </li>

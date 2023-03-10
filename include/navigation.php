@@ -39,6 +39,9 @@
                 <li class="nav-item">
                     <a class="nav-link" href="about.php">About Us</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="blog.php">Blog</a>
+                </li>
 
             </ul>
         </div>

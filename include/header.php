@@ -13,6 +13,7 @@
 
     <!-- Bootstrap Link CSS Files -->
     <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
+    <!-- <link rel="stylesheet" type="text/css" href="node_modules/bootstrap/dist/css/bootstrap.min.css"> -->
 
     <!-- Custom Link CSS Files -->
     <link rel="stylesheet" href="css/custom.css">
